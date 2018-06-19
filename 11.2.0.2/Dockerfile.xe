@@ -4,7 +4,7 @@ FROM wjwaters2/oracle-base:11.2.0.2-xe
 
 # Maintainer
 # ----------
-MAINTAINER Preston Sheldon <psheldon@pivotal.io>
+MAINTAINER Bill Waters <wjwaters2@gaig.com>
 
 ENV ORACLE_PWD=4dminPass
 
