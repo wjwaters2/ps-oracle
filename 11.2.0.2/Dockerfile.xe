@@ -1,6 +1,6 @@
 # Pull base image
 # ---------------
-FROM pksheldon4/oracle-base:11.2.0.2-xe
+FROM wjwaters2/oracle-base:11.2.0.2-xe
 
 # Maintainer
 # ----------
