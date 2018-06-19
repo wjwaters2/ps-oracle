@@ -23,3 +23,9 @@ And the last few lines in each verion's runOracle.sh which tail the logs.
 My fork, including this change, can be found [here](https://github.com/pksheldon4/oracle-docker-images/tree/master/OracleDatabase/SingleInstance).
 
 The purpose of this Docker image is to have the Database fully contained in the image so the VOLUME isn't necessary.
+
+
+```
+./buildDockerImage.sh -v 11.2.0.2 -x
+
+```
