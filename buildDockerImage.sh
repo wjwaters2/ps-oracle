@@ -92,7 +92,7 @@ else
 fi
 
 # Oracle Database Image Name
-export IMAGE_NAME="pksheldon4/ps-oracle:$VERSION-$EDITION"
+export IMAGE_NAME="wjwaters2/ps-oracle:$VERSION-$EDITION"
 
 cd $VERSION
 
